@@ -1,6 +1,6 @@
 ### 1. Application Architecture:
 
-Your eCommerce application follows a typical client-server architecture. Here's a brief overview:
+This eCommerce application follows a typical client-server architecture. Here's a brief overview:
 - **Server Side**: This consists of the backend of your application, where the business logic, database interactions, and authentication are handled.
 
 ### 2. Technology Stack:
